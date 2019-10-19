@@ -1,0 +1,26 @@
+             body{
+          background-color: black;
+        }
+        .red-a{
+          color: white;
+          font-size: 20px;
+        }
+        .red-h1{
+          font-size: 65px;
+          font-style: italic;
+          font-weight: bolder;
+          color: maroon;
+        }
+        .red-h2{
+          background-color: maroon;
+          font-size: 40px;
+          font-style: italic;
+        }
+        .red-ul, .red-ol, .red-li{
+          color: maroon;
+          font-size: 25px;
+        }
+        .small{
+          font-size: 10px;
+          color: maroon;
+        }

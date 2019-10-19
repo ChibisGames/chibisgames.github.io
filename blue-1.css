@@ -1,0 +1,30 @@
+	    	body{
+          background-color: black;
+                  }
+    	  .blue-a{
+          color: white;
+          font-size: 20px;
+        }
+        .blue-h1{
+          font-size: 65px;
+          font-style: italic;
+          font-weight: bolder;
+          color: aqua;
+        }
+        .blue-h2{
+          font-size: 40px;
+          font-style: italic;
+          color: aqua;
+        }
+        .small{
+          font-size: 7.5px;
+          color: aqua;
+        }
+        .statya{
+          color: aqua;
+          font-size: 25px;
+
+        }
+        .blue-h6{
+          color: aqua;
+        }
