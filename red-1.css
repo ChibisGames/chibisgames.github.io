@@ -1,0 +1,48 @@
+             body{
+              background-image: linear-gradient(to right bottom, #000000, #0b0002, #130003, #1a0002, #1f0000);
+        }
+        .red-a{
+          color: maroon;
+          font-size: 20px;
+        }
+        .red-h1{
+          font-size: 65px;
+          font-style: italic;
+          font-weight: bolder;
+          color: maroon;
+        }
+        .red-h2{
+          background-color: maroon;
+          font-size: 40px;
+          font-style: italic;
+        }
+        .red-ul, .red-ol, .red-li{
+          color: maroon;
+          font-size: 25px;
+        }
+        .small{
+          font-size: 10px;
+          color: maroon;
+        }
+        .red-1-button{
+          background-color: black;
+          padding: 30px;
+          margin-right: 15px;
+          border-width: 7.5px;
+          border-color: maroon;
+          border-style: outset;
+           cursor: pointer;
+        }
+      .red-img-{
+        opacity: 1;
+      }
+        .red-img-1:active{
+          opacity: 0.9; 
+
+        }
+        .recor-red-1{
+        
+         
+         https://www.tomswallpapers.com/pic/201503/1024x768/tomswallpapers.com-9474.jpg);
+        
+        }
