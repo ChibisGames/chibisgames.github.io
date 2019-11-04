@@ -1,5 +1,5 @@
              body{
-          background-color: black;
+           background-image: linear-gradient(to right bottom, #000000, #0b0002, #130003, #1a0002, #1f0000);
         }
         .red-a{
           color: maroon;
