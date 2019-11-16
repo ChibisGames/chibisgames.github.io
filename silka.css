@@ -1,0 +1,222 @@
+.child_2-5-silka{
+position: relative;
+width: 180px;
+height: 180px;
+left: 1151px;
+top: -800px;
+border-radius: 25%;
+border: 2px solid #000;
+
+}
+
+.child_2-4-silka{
+position: relative;
+width: 180px;
+height: 180px;
+left: 890px;
+top: -700px;
+border-radius: 25%;
+border: 2px solid #000;
+
+}
+.child_2-3-silka{
+position: relative;
+width: 181px;
+height: 180px;
+left: 629px;
+top: -600px;
+border-radius: 25%;
+border: 2px solid #000;
+
+}
+.child_2-2-silka{
+position: relative;
+width: 180px;
+height: 180px;
+left: 369px;
+top: -500px;
+border-radius: 25%;
+border: 2px solid #000;
+
+}
+.child_2-1-silka{
+position: relative;
+width: 180px;
+height: 180px;
+left: 108px;
+top: -400px;
+border-radius: 25%;
+border: 2px solid #000;
+
+}
+.child_1-5-silka{
+position: relative;
+width: 180px;
+height: 180px;
+left: 1151px;
+top: -151px;
+border-radius: 25%;
+border: 2px solid #000;
+
+}
+.child_1-4-silka{
+position: relative;
+width: 180px;
+height: 180px;
+left: 890px;
+top: -51px;
+border-radius: 25%;
+border: 2px solid #000;
+
+}
+.child_1-3-silka{
+position: relative;
+width: 181px;
+height: 180px;
+left: 629px;
+top: 49px;
+border-radius: 25%;
+border: 2px solid #000;
+}
+.child_1-2-silka{
+position: relative;
+width: 180px;
+height: 180px;
+left: 369px;
+top: 149px;
+border-radius: 25%;
+border: 2px solid #000;
+
+}
+.child_1-1-silka{
+position: relative;
+left: 108px;
+top: 249px;
+border-radius: 25%;
+border: 2px solid white;
+border: 180px;
+cursor: pointer;
+background-size: cover;
+}
+.parent-silka{
+position: absolute;
+width: 1225px;
+height: 398px;
+left: 0px;
+top: 100px;
+}
+.a-silka{
+	 color: maroon;
+          font-size: 20px;
+}
+.img-shoter{
+          border:2px solid #000; 
+          display: inline-block;
+          width: 180px;
+height: 180px;
+cursor: pointer;
+border-radius: 25%;
+background-image: url(https://yt3.ggpht.com/a/AGF-l7_b7gAguTdR8DPJnMgAT9EHFvGb1U5p_vj7XA=s900-c-k-c0xffffffff-no-rj-mo);
+background-size:contain;
+}
+.child-back{
+
+}
+.img-glavnaya{
+	          border:2px solid #000; 
+          display: inline-block;
+          width: 180px;
+height: 180px;
+cursor: pointer;
+border-radius: 25%;
+background-image: url(Glavnaya.png);
+background-size:contain;
+background-repeat: no-repeat;
+}.img-horor{
+	          border:2px solid #000; 
+          display: inline-block;
+          width: 180px;
+height: 180px;
+cursor: pointer;
+border-radius: 25%;
+background-image: url(HOROR.png);
+background-size: cover;
+background-repeat: no-repeat;
+}
+.img-poznovatel{
+	          border:2px solid #000; 
+          display: inline-block;
+          width: 180px;
+height: 180px;
+cursor: pointer;
+border-radius: 25%;
+background-image: url(Glavnaya.png);
+background-size:contain;
+background-repeat: no-repeat;
+}
+.img-arcada{
+	          border:2px solid #000; 
+          display: inline-block;
+          width: 180px;
+height: 180px;
+cursor: pointer;
+border-radius: 25%;
+background-image: url(Arcada.png);
+background-size: cover;
+background-repeat: no-repeat;
+}
+.img-priclucheniya{
+	          border:2px solid #000; 
+          display: inline-block;
+          width: 180px;
+height: 180px;
+cursor: pointer;
+border-radius: 25%;
+background-image: url(Priclucheniya.png);
+background-size: cover;
+background-repeat: no-repeat;
+}
+.img-poznovat{
+	          border:2px solid #000; 
+          display: inline-block;
+          width: 180px;
+height: 180px;
+cursor: pointer;
+border-radius: 25%;
+background-image: url(Poznovat.png);
+background-size: cover;
+background-repeat: no-repeat;
+}
+.img-golovolomka{
+	          border:2px solid #000; 
+          display: inline-block;
+          width: 180px;
+height: 180px;
+cursor: pointer;
+border-radius: 25%;
+background-image: url(Golovolomka.png);
+background-size: cover;
+background-repeat: no-repeat;
+}
+.img-glavnaya{
+	          border:2px solid #000; 
+          display: inline-block;
+          width: 180px;
+height: 180px;
+cursor: pointer;
+border-radius: 25%;
+background-image: url(Glavnaya.png);
+background-size:contain;
+background-repeat: no-repeat;
+}
+.img-glavnaya{
+	          border:2px solid #000; 
+          display: inline-block;
+          width: 180px;
+height: 180px;
+cursor: pointer;
+border-radius: 25%;
+background-image: url(Glavnaya.png);
+background-size:contain;
+background-repeat: no-repeat;
+}
