@@ -5,7 +5,7 @@ h1{
 		  font-size: 65px;
           font-style: italic;
           font-weight: bolder;
-          top: 1 vh;
+          top: 1vh;
           text-align: center;
 }
 p{
@@ -16,5 +16,4 @@ p{
 }
 .link{
 	text-align: center;
-	top: 10 vh;
 }
